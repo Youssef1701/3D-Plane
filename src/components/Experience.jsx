@@ -62,7 +62,7 @@ Have a seat and enjoy the ride!`,
         ),
         title: "Experience",
         subtitle: `Demo Data
-write your conten here.`,
+write your content here.`,
       },
       {
         cameraRailDist: -1,
